@@ -15,17 +15,31 @@ TaskMaster is a responsive and user-friendly To-Do List application that helps y
 - **style.css:** Styling for the application, including a clean and modern design.
 - **script.js:** Functionality for adding, editing, deleting, and tracking tasks with timers.
 
-## How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/taskmaster.git
-   ```
-2. Open `index.html` in your browser to start using the app.
+## How to Run  
+1. **Download the Project**:  
+   - Click the green "Code" button on this repository.  
+   - Select "Download ZIP" and extract the files to your computer.  
+
+2. **Ensure All Files Are in the Same Folder**:  
+   - Confirm that the following files are together in the same directory:  
+     - `index.html`  
+     - `style.css`  
+     - `script.js`  
+
+3. **Open the Application**:  
+   - Navigate to the project folder.  
+   - Double-click the `index.html` file to open it in your default web browser.  
+
+4. **Start Managing Tasks**:  
+   - Add, edit, or delete tasks as needed directly in the browser.  
+   - Ensure timers and counters function correctly by keeping the files linked.  
+ 
+
 
 ## Usage
 1. Enter a task in the input box.
 2. Optionally, set a timer for the task (hours, minutes, seconds).
-3. Click **Add** to save the task to your list.
+3. Click Add to save the task to your list.
 4. Use the checkbox to mark tasks as completed, or the edit/delete buttons to modify them.
 
 ## Technologies Used
